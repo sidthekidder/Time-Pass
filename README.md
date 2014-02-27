@@ -1,4 +1,6 @@
 Time-Pass
 =========
 
-A simple node.js app that times who can keep a browser tab in focus for the longest time.
+A simple node.js app that times who can has kept their browser tab open and in focus the longest.
+
+Easily hackable right now.

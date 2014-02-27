@@ -1,0 +1,11 @@
+{
+	"name":"timePass",
+	"version":"0.0.0",
+	"description":"time your timepass!",
+	"dependencies":{
+		"socket.io":"latest",
+		"express":"latest",
+		"jade":"latest"
+	},
+	"author":"sidthekid"
+}
